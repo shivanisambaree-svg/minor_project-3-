@@ -11,7 +11,7 @@ Working with six months of raw ledger data from **PayFast** (a payment aggregato
 
 ---
 
-## ⚡ Key Highlights & Metrics
+##  Key Highlights & Metrics
 
 * **Core Deliverable:** A unified, production-ready SQL script designed to identify complex fraud patterns on sight.
 * **No ML / Pure SQL:** Solves complex behavioral anomalies using window frames, sliding intervals, cohort aggregations, and CTEs.
@@ -21,7 +21,7 @@ Working with six months of raw ledger data from **PayFast** (a payment aggregato
 
 ---
 
-## 🗂️ Data Foundation at a Glance
+##  Data Foundation at a Glance
 
 All detection models run against the core `transactions` relation
 
